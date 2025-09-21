@@ -1,11 +1,11 @@
-# Hi there 👋, I'm Jimboy Garais
+#   What's up👋, I'm Jimboy Garais. From the province of Sorsogon 
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0AB6F7&center=true&vCenter=true&random=false&width=520&lines=Software+Developer;Tech+Explorer;Building+Innovative+Solutions;Always+Learning+New+Things" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0AB6F7&center=true&vCenter=true&random=false&width=520&lines=Future+Software+Developer;Na+Walang+Ginagawa;Tech+Explorer;Building+Innovative+Solutions;Always+Learning+New+Things" alt="Typing Animation" />
 </p>
 
 
