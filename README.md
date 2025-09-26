@@ -1,4 +1,4 @@
-#   What's up👋, I'm Jimboy Garais. From the province of Sorsogon 
+#   Annyeonghaseyo👋, I'm Jimboy Garais. 
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
